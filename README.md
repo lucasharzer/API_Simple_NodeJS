@@ -36,11 +36,19 @@ colocar o link: https://localhost:18062 no navegador
 
 - Testar o método GET e o POST no Postman:
 
-inserir o link: https://localhost:18062 (GET)
+inserir o link: https://localhost:18062 (GET) e 
 inserir o link: https://localhost:18062/add e passar as informações (POST)
 
 <span>
       <img src="https://user-images.githubusercontent.com/85804895/137651545-92627b6c-9cdc-4c03-a2e3-d6433c01027a.gif", width=900>
+</span>
+
+- Testar o método DELETE no Postman:
+
+inserir o link: https://localhost:18062/{id}
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/137651676-ac42c9c3-f388-4452-ac73-e0a141b58720.gif", width=900>
 </span>
 
 
