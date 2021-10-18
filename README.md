@@ -26,12 +26,21 @@ Ctrl + C
 
 # Resultado
 
-- testar o método get no navegador:
+- Testar o método GET no navegador:
 
 colocar o link: https://localhost:18062 no navegador
 
 <span>
       <img src="https://user-images.githubusercontent.com/85804895/137651291-416f826e-8f13-469b-9025-5cff1dfa4ed5.gif", width=900>
+</span>
+
+- Testar o método GET e o POST no Postman:
+
+inserir o link: https://localhost:18062 (GET)
+inserir o link: https://localhost:18062/add e passar as informações (POST)
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/137651545-92627b6c-9cdc-4c03-a2e3-d6433c01027a.gif", width=900>
 </span>
 
 
