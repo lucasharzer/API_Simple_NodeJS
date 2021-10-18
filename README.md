@@ -2,7 +2,7 @@
 
 - Descrição
 
-API de clientes simples em NodeJS, com lista de clientes (db), aplicada no Postman e com os métodos: GET - rota:'/' (listar todos os clientes), POST - rota:'/add' (criar um cliente informando o id, nome e idade) e DELETE - rota:'/:id' (deletar um cliente infoemando o id).
+API de clientes simples em NodeJS, com lista de clientes (db), aplicada no Postman e com os métodos: GET - rota: '/' (listar todos os clientes), POST - rota: '/add' (criar um cliente informando o id, nome e idade) e DELETE - rota: '/:id' (deletar um cliente infoemando o id).
 
 - Dependências usadas
 
