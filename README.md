@@ -2,7 +2,7 @@
 
 - Descrição
 
-API de clientes simples em NodeJS, com lista de clientes (db) e com os métodos: GET - rota:'/' (listar todos os clientes), POST - rota:'/add' (criar um cliente informando o id, nome e idade) e DELETE - rota:'/:id' (deletar um cliente infoemando o id).
+API de clientes simples em NodeJS, com lista de clientes (db), aplicada no Postman e com os métodos: GET - rota:'/' (listar todos os clientes), POST - rota:'/add' (criar um cliente informando o id, nome e idade) e DELETE - rota:'/:id' (deletar um cliente infoemando o id).
 
 - Dependências usadas
 
@@ -12,14 +12,12 @@ API de clientes simples em NodeJS, com lista de clientes (db) e com os métodos:
 4 - nodemon (biblioteca do nodejs que reinicia automáticamente o servidor); 
 5 - morgan (faz login ou mostra quais requisições estão chegando no servidor HTTP).
 
-- Comandos para Configuração
+- Comando para rodar a aplicação
 
 ```bash
-node --version
-npm -- verion
-npm init
-npm install express body-parser morgan cors nodemon
+npm start
 ```
+
 
 
 
