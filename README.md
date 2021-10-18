@@ -12,10 +12,16 @@ API de clientes simples em NodeJS, com lista de clientes (db), aplicada no Postm
 - nodemon (biblioteca do nodejs que reinicia automáticamente o servidor); 
 - morgan (faz login ou mostra quais requisições estão chegando no servidor HTTP).
 
-# Comando para rodar a aplicação
+# Comando no terminal para rodar a aplicação
 
 ```bash
 npm start
+```
+
+# Comando no terminal para parar a aplicação
+
+```bash
+Ctrl + C
 ```
 
 
